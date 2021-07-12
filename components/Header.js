@@ -15,7 +15,7 @@ function Header() {
         <header className="flex flex-col sm:flex-row m-5 justify-between 
                             items-center h-auto ">
             <div className="w-full sm:w-auto flex flex-grow items-center justify-evenly 
-                            max-w-2xl mt-5 overflow-scroll scrollbar-hide" >
+                            max-w-2xl pt-5 overflow-scroll scrollbar-hide" >
                 <HeaderItem title="HOME" Icon={HomeIcon}/>
                 <HeaderItem title="TRENDING" Icon={LightningBoltIcon}/>
                 <HeaderItem title="VERIFIED" Icon={BadgeCheckIcon}/>
