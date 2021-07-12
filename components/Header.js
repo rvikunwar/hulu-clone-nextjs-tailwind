@@ -27,6 +27,7 @@ function Header() {
                 src={hululogo} 
                 height={90} 
                 width={140}
+                alt="logo"
                 className="object_contain"/>
                 
         </header>
